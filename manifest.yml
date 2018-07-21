@@ -1,0 +1,7 @@
+---
+applications:
+- name: bh-final-application
+  path: /home/travis/build/bherring31/BecasApi/target/becas-0.1.jar 
+  memory: 1024M
+  instances: 1
+  random-route: true
