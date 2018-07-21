@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>banking</groupId>
-	<artifactId>banking</artifactId>
+	<groupId>becas</groupId>
+	<artifactId>becas-api</artifactId>
 	<version>0.1</version>
 	<packaging>jar</packaging>
 
-	<name>banking-api-clean-architecture</name>
-	<description>Banking API Clean Architecture</description>
+	<name>becas-api-clean-architecture</name>
+	<description>Becas API Clean Architecture</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
